@@ -1,30 +1,16 @@
 # bio_collocation
 
-A Python package for biological collocation analysis.
+> [!IMPORTANT]
+> **Inactive scaffold.** This repository does not contain a usable biological
+> collocation implementation. The package modules are placeholders, and the
+> project is not published to PyPI.
 
-## Installation
+## Repository purpose
 
-```bash
-pip install -e .
-```
-
-## Features
-
-- **io**: Input/output operations for data files
-- **surrogate**: Surrogate modeling tools
-- **collocation**: Collocation methods implementation
-- **plotting**: Visualization utilities
-- **stan**: CmdStanPy integration for Bayesian inference
-- **cli**: Command-line interface tools
-
-## Dependencies
-
-- cmdstanpy
-- arviz
-- numpy
-- scipy
-- matplotlib
-- xarray
+This repository is retained as a historical record of an early package
+scaffold. Feature lists in older revisions described intended components, not
+delivered functionality. Do not install or depend on this repository for
+research or production work.
 
 ## Development
 
